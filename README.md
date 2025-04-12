@@ -38,7 +38,7 @@ Il s'agit d'un exercice pratique de data analysis appliquée aux états financie
 
 ## 🖼️ Aperçu du Dashboard
 
-![Aperçu du Dashboard](financial-Dashbord.png)
+![Aperçu du Dashboard](./financial-Dashbord.png)
 
 ---
 
